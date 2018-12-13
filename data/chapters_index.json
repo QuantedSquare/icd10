@@ -1,0 +1,133 @@
+[
+{
+    "chapter": "1",
+    "bloc_low": "A00",
+    "bloc_high": "B99",
+    "name": "Certaines maladies infectieuses et parasitaires"
+},
+{
+    "chapter": "2",
+    "bloc_low": "C00",
+    "bloc_high": "D48",
+    "name": "Tumeurs"
+},
+{
+    "chapter": "3",
+    "bloc_low": "D50",
+    "bloc_high": "D89",
+    "name": "Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire"
+},
+{
+    "chapter": "4",
+    "bloc_low": "E00",
+    "bloc_high": "E90",
+    "name": "Maladies endocriniennes, nutritionnelles et métaboliques"
+},
+{
+    "chapter": "5",
+    "bloc_low": "F00",
+    "bloc_high": "F99",
+    "name": "Troubles mentaux et du comportement"
+},
+{
+    "chapter": "6",
+    "bloc_low": "G00",
+    "bloc_high": "G99",
+    "name": "Maladies du système nerveux"
+},
+{
+    "chapter": "7",
+    "bloc_low": "H00",
+    "bloc_high": "H59",
+    "name": "Maladies de l'œil et de ses annexes"
+},
+{
+    "chapter": "8",
+    "bloc_low": "H60",
+    "bloc_high": "H95",
+    "name": "Maladies de l'oreille et de l'apophyse mastoïde"
+},
+{
+    "chapter": "9",
+    "bloc_low": "I00",
+    "bloc_high": "I99",
+    "name": "Maladies de l'appareil circulatoire"
+},
+{
+    "chapter": "10",
+    "bloc_low": "J00",
+    "bloc_high": "J99",
+    "name": "Maladies de l'appareil respiratoire"
+},
+{
+    "chapter": "11",
+    "bloc_low": "K00",
+    "bloc_high": "K93",
+    "name": "Maladies de l'appareil digestif"
+},
+{
+    "chapter": "12",
+    "bloc_low": "L00",
+    "bloc_high": "L99",
+    "name": "Maladies de la peau et du tissu cellulaire sous-cutané"
+},
+{
+    "chapter": "13",
+    "bloc_low": "M00",
+    "bloc_high": "M99",
+    "name": "Maladies du système ostéo-articulaire, des muscles et du tissu conjonctif"
+},
+{
+    "chapter": "14",
+    "bloc_low": "N00",
+    "bloc_high": "N99",
+    "name": "Maladies de l'appareil génito-urinaire"
+},
+{
+    "chapter": "15",
+    "bloc_low": "O00",
+    "bloc_high": "O99",
+    "name": "Grossesse, accouchement et puerpéralité"
+},
+{
+    "chapter": "16",
+    "bloc_low": "P00",
+    "bloc_high": "P96",
+    "name": "Certaines affections dont l'origine se situe dans la période périnatale"
+},
+{
+    "chapter": "17",
+    "bloc_low": "Q00",
+    "bloc_high": "Q99",
+    "name": "Malformations congénitales et anomalies chromosomiques"
+},
+{
+    "chapter": "18",
+    "bloc_low": "R00",
+    "bloc_high": "R99",
+    "name": "Symptômes, signes et résultats anormaux d'examens cliniques et de laboratoire, non classés ailleurs"
+},
+{
+    "chapter": "19",
+    "bloc_low": "S00",
+    "bloc_high": "T98",
+    "name": "Lésions traumatiques, empoisonnements et certaines autres conséquences de causes externes"
+},
+{
+    "chapter": "20",
+    "bloc_low": "V01",
+    "bloc_high": "Y98",
+    "name": "Causes externes de morbidité et de mortalité"
+},
+{
+    "chapter": "21",
+    "bloc_low": "Z00",
+    "bloc_high": "Z99",
+    "name": "Facteurs influant sur l'état de santé et motifs de recours aux services de santé"
+},
+{
+    "chapter": "22",
+    "bloc_low": "U00",
+    "bloc_high": "U99",
+    "name": "Codes d'utilisation particulière"
+}]
